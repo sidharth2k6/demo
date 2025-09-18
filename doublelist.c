@@ -5,6 +5,7 @@ struct node{
     int data;
     struct node *next,*prev;
 }*head=0,*temp,*newnode,*tail;
+
 /*prototype declere*/
 void create();
 int count();

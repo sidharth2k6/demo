@@ -21,6 +21,7 @@ struct node{
 int count=0;
 
 /*prototype declearation for functions*/
+
 /*menu*/
 void menu();
 /*create*/
