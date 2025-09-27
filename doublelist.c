@@ -22,16 +22,8 @@ int main(){
     create();
     display();
     printf("\n\nNo of nodes: %d",count());
-    // insspe();
-    // insfirst();
-    // delfirst();
-    // display();
-    // dellast();
     delspe();
     display();
-    // inslast();
-    // display();
-
     return 0;
 }
 void create(){
